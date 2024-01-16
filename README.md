@@ -1,0 +1,4 @@
+- 👨‍🏭 Hi I'm Emilio, I am a builder and adventurer
+- 🤩 I explore my unstoppable curiosity for technologies and ways to improve my skills by writing code, reading books and mastering what others have already figured out 
+- 👨‍💻 As an extreme customer-focused data analyst, I put together SQL models to create actionable insights
+- 🤓 Currently, I am learning how to write more advanced code with the [odin project](https://www.theodinproject.com/) 
